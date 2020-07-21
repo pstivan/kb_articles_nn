@@ -1,0 +1,11 @@
+Other
+Internal_Plesk_articles
+Plesk_Service/Interface
+Webserver
+Applications&Extensions
+Backup,Restore&Migration
+Databases
+Installation&Upgrade
+Mail
+DNS&Statistics
+WebsiteBuilder
